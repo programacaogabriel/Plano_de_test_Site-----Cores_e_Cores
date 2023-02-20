@@ -93,3 +93,29 @@ Teste de Aceitação : A plataforma precisa estar ativa e em execução.
 	</tr>
 </table>
 <br/>
+
+## 4 - Recursos
+
+Um Testador
+Ferramenta automazão : Robot
+
+### 4.1 - Ambiente de teste - Software e Hardware
+
+Ambiente : Web, Firefox 109.0.1 64bits, Desktop
+Ubuntu 22.04.1 LTS
+VERSION="22.04.1 LTS (Jammy Jellyfish)
+
+
+### 4.2 - Ferramenta de teste
+
+ROBOT FRAMEWORK 
+
+
+## 5 - Cronograma
+
+Tipo de teste  	| Duração | data de início | data de término
+-------------------|---------|----------------|-----------------
+planejar teste 	|     	| 15/02/2023 	| 16/03/2023
+projetar teste 	|     	| 16/03/2023 	| 17/03/2023
+implementar teste |     	| 17/03/2023 	| 20/03/2023
+executar teste 	|     	| 20/03/2023 	| 25/03/2023
