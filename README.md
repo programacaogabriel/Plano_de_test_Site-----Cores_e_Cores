@@ -99,7 +99,7 @@ Teste de Aceitação : A plataforma precisa estar ativa e em execução.
 ## 4 - Recursos
 
 Um Testador
-Ferramenta automazão : Robot
+Ferramenta automação : Robot
 
 ### 4.1 - Ambiente de teste - Software e Hardware
 
