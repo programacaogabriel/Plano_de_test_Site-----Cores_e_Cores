@@ -99,7 +99,7 @@ Teste de Aceitação : A plataforma precisa estar ativa e em execução.
 ## 4 - Recursos
 
 Um Testador
-Ferramenta automação : Robot
+
 
 ### 4.1 - Ambiente de teste - Software e Hardware
 
@@ -110,7 +110,7 @@ VERSION="22.04.1 LTS (Jammy Jellyfish)
 
 ### 4.2 - Ferramenta de teste
 
-ROBOT FRAMEWORK 
+O teste automatizado não será feito
 
 
 ## 5 - Cronograma
